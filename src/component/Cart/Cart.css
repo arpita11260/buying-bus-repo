@@ -9,7 +9,7 @@ h3{
 .model{
     border: 2px solid black;
 }
-.company h5{
+.company {
     display: grid;
     grid-template-columns: repeat(1fr,1);
     border: 2px solid black;

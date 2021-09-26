@@ -10,7 +10,7 @@ const Cart = (props) => {
     for(const product of cart){
         total = total + product.price;
         totalQuantity += 1; 
-        companyName = companyName + product.company;
+        companyName = companyName + product.company + ',';
         
     }
 
