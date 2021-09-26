@@ -1,5 +1,5 @@
 # Buying Bus
-Deploy Link: </br>
+Deploy Link: https://buyingbus.netlify.app/ </br>
 
 <div>
   <ul>
