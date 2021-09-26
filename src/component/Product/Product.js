@@ -18,7 +18,7 @@ const Product = (props) => {
                 <p>Model: {model}</p>
                 <p>Category: {category}</p>
                 <p>Seat: {numOfSeat}</p>
-                <p>Price: {price}</p>
+                <p>Price: ${price}</p>
                 <button onClick={ () =>  props.handleAddToCart(props.product)} className='btn-regular icon'><span className='icon-bus'>{busIcon}</span> Add to Cart</button>
                 <h4>{thumbsUpIcon} <span className='icon-thumble'>{thumbsDownIcon}</span></h4>
             </div>

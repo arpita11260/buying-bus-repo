@@ -18,7 +18,6 @@ const Shop = () => {
         });
     }, []);
 
-
     const handleAddToCart = (product) => {
         const newCart = [...cart, product];
         const newModel = [model]

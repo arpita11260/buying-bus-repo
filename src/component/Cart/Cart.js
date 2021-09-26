@@ -6,11 +6,11 @@ const Cart = (props) => {
 
     let totalQuantity = 0;
     let total = 0;
-    let modelName = ' ';
+    let companyName = ' ';
     for(const product of cart){
         total = total + product.price;
         totalQuantity += 1; 
-        modelName = modelName + product.model + <br />;
+        companyName = companyName + product.company;
         
     }
 
@@ -18,9 +18,9 @@ const Cart = (props) => {
         <div className='cart'>
                 <h3>Order Summary</h3>
                 <h5>Items Ordered: {totalQuantity}</h5>
-                <p>Total: {total}</p>
-                <div>
-                    <p>Model: {modelName} </p>
+                <h5>Total: {total}</h5>
+                <div className='company'>
+                    <h5>Company Name: {companyName} </h5>
                 </div>
         </div>
     );
