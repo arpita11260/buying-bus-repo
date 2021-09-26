@@ -1,6 +1,7 @@
 .product{
         height: 600px;
         width: 350px;
+        background-color: rgb(236, 209, 236);
         padding-top: 20px;
         margin: 20px;
         display: grid;
@@ -13,13 +14,13 @@
     
 }
 .btn-regular{
-    background-color: goldenrod;
+    background-color: rgb(233, 247, 247);
     width: 150px;
     height: 40px;
     border:1px solid gray;
     border-radius: 5px;
     cursor: pointer;
-    grid-gap: 10px;
+   
 }
 h4{
     margin: 10px;

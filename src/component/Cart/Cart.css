@@ -1,7 +1,11 @@
 .cart{
-    background-color: rgb(108, 196, 196);
+    display: grid;
+    background-color: rgb(233, 247, 247);
     padding: 30px;
 }
+h3{
+    font-weight: bolder;
+}
 .model{
-    
+    border: 2px solid black;
 }

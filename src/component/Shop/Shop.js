@@ -7,6 +7,7 @@ const Shop = () => {
     const [product, setProduct] = useState([]);
     const [cart, setCart] = useState([]);
     const [ dispalyProducts, setDisplayProducts] = useState([]);
+    const [model, setModel] = useState([]);
 
     useEffect( () =>{
         fetch('./bus.JSON')
@@ -20,7 +21,9 @@ const Shop = () => {
 
     const handleAddToCart = (product) => {
         const newCart = [...cart, product];
+        const newModel = [model]
         setCart(newCart);
+        setModel(newModel);
     }
     return (
         <div className='shop-container'>
