@@ -1,0 +1,75 @@
+[
+    {
+        "model" : " HFF6181G02DE5 ",
+        "company" : "Ankai Brand",
+        "category" : "Large AC",
+        "numOfSeat" : "40",
+        "price" : 120000.00,
+        "img" : "https://s.alicdn.com/@sc04/kf/H0f26ad3843924669b194b23e10c1bbc9A.jpg_300x300.jpg"
+    },
+    {
+        "model" : "XTA6128H",
+        "company" : "Dubai popular",
+        "category" : "Medium",
+        "numOfSeat" : "60",
+        "price" : 105000.00,
+        "img" : "https://s.alicdn.com/@sc04/kf/H6281c53a829b48dd84db37a2cf0664d3x.jpg_220x220.jpg_.webp"
+    },
+    {
+        "model" : "EQ6113L4D",
+        "company" : "Ankai Brand",
+        "category" : "Medium",
+        "numOfSeat" : "50",
+        "price" : 65000.00,
+        "img" : "https://s.alicdn.com/@sc04/kf/HTB1hr6PXL1G3KVjSZFkq6yK4XXa8.jpg_300x300.jpg"
+    },
+    {
+        "model" : "ZK6888",
+        "company" : "Yutong",
+        "category" : "Large",
+        "numOfSeat" : "60",
+        "price" : 80000.00,
+        "img" : "https://s.alicdn.com/@sc04/kf/H3ae5ebffc854456ebd76d0c264422288b.jpg_300x300.jpg"
+    },
+    {
+        "model" : "LBY6120T",
+        "company" : "Yutong",
+        "category" : "Small",
+        "numOfSeat" : "20",
+        "price" : 40000.00,
+        "img" : "https://s.alicdn.com/@sc04/kf/H2e46c3a3477b414c95d7275835d270ba0.jpg_300x300.jpg"
+    },
+    {
+        "model" : "ZK6122HT6Q1",
+        "company" : "Ankai Brand",
+        "category" : "Large",
+        "numOfSeat" : "70",
+        "price" : 70000.00,
+        "img" : "https://s.alicdn.com/@sc04/kf/H4467f9f8ebf94bb1893647089b9dcedbA.jpg_300x300.jpg"
+    },
+    {
+        "model" : "12M BUS",
+        "company" : "Yutong",
+        "category" : "medium",
+        "numOfSeat" : "50",
+        "price" : 60000.00,
+        "img" : "https://s.alicdn.com/@sc04/kf/HTB19t3AdBiE3KVjSZFMq6zQhVXaV.jpg_300x300.jpg"
+    },
+    {
+        "model" : "ZK6899HA",
+        "company" : " Yutong",
+        "category" : "medium",
+        "numOfSeat" : "39",
+        "price" : 45000.00,
+        "img" : "https://s.alicdn.com/@sc04/kf/Hf8836006df6f49e28c016ab890514897v.jpg_300x300.jpg"
+    },
+    {
+        "model" : "Gold Dragon Bus 6112",
+        "company" : "Golden Dragon",
+        "category" : "Large",
+        "numOfSeat" : "60",
+        "price" : 65000.00,
+        "img" : "https://s.alicdn.com/@sc04/kf/H8c265ebf27864de692cb74c501b6a524z.jpg_300x300.jpg"
+    }
+
+]

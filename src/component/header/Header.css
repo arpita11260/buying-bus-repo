@@ -1,0 +1,14 @@
+.header{
+    background-color: black;
+    padding: 20px;
+}
+h1{
+    color: white;
+    font-weight: bolder;
+    font-size:25px;
+}
+p{
+    color: black;
+    font-weight: bold;
+}
+

@@ -1,0 +1,33 @@
+.product{
+        height: 600px;
+        width: 350px;
+        padding-top: 20px;
+        margin: 20px;
+        display: grid;
+        border: 2px solid black;
+        margin-left: 50px;
+}
+.product img{
+    height: 200px;
+    width: 150px;
+    
+}
+.btn-regular{
+    background-color: goldenrod;
+    width: 150px;
+    height: 40px;
+    border:1px solid gray;
+    border-radius: 5px;
+    cursor: pointer;
+    grid-gap: 10px;
+}
+h4{
+    margin: 10px;
+    padding: 10px;
+}
+.icon-thumble{
+    padding-left: 20px;
+}
+.icon-bus{
+   padding-right: 10px;
+}
